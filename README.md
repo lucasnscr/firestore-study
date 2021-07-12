@@ -22,4 +22,3 @@ The following technologies were used to carry out the project:
 - Spring Web
 - Spring Cloud GCP
 - Firestore
-- Project Reactor
